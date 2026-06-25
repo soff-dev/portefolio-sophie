@@ -88,6 +88,8 @@ export const profilConfig: ProfileConfig = {
         email: "auvergne.sophie@gmail.com",
         currentFocus: [
             "Créer un portfolio avec NextJS et tailwindCSS",
+            "Projet personnel : création d'une marketplace pour les artisans et créateurs afin de mettre en avant leurs créations et leur savoir-faire",
+            "Projet personnel : création d'une application web pour la gestion de stock, de commandes et de factures pour les artisans et créateurs"
         ],
         funFact: "je suis également passionée de loisir créatifs : crochet, tricot, broderie, couture..."
     },
