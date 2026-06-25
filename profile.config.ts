@@ -95,7 +95,7 @@ export const profilConfig: ProfileConfig = {
     },
 
     socialLinks: {
-        github: "https://github.com/soffos-dev",
+        github: "https://github.com/soff-dev",
         linkedin: "https://www.linkedin.com/in/sophie-auvergne-67272292/",
     },
 
